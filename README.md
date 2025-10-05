@@ -46,13 +46,16 @@ The system continuously monitors a camera feed, detects people (or other objects
         }
 7.   **▶️ Usage**
    
+   
         python security_ai.py
         Press ESC to quit the live feed.
         All alerts are stored in the alerts/ folder.
         Telegram bot sends real-time alerts with pictures.
 
-8. **📲 Example Telegram Alert**
+9. **📲 Example Telegram Alert**
+   
     🚨 Person detected!
+
 
 
 
