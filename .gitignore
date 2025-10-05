@@ -1,0 +1,4 @@
+config.json
+alerts/
+__pycache__/
+.venv/
