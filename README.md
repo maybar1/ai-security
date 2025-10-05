@@ -39,17 +39,20 @@ The system continuously monitors a camera feed, detects people (or other objects
         Get your Chat ID from:
         https://api.telegram.org/bot<YOUR_TOKEN>/getUpdates
 5.  **Create a config.json file in the project root:**
+   
         {
           "TELEGRAM_TOKEN": "your_bot_token_here",
           "CHAT_ID": "your_chat_id_here"
         }
-6.   **▶️ Usage**
+7.   **▶️ Usage**
+   
         python security_ai.py
         Press ESC to quit the live feed.
         All alerts are stored in the alerts/ folder.
         Telegram bot sends real-time alerts with pictures.
 
-7. **📲 Example Telegram Alert**
+8. **📲 Example Telegram Alert**
     🚨 Person detected!
+
 
 
